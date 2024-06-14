@@ -1,2 +1,6 @@
+nombre = "Jhon Jesus"
+aaaaaaaaaaaaaa
+
+Chino
 nombre = "jose" y "roberto" y "luis" y "mario"
 bbbbbbbb
