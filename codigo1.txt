@@ -1,2 +1,11 @@
+nombre = "pepe"
+aaaaaaaaaaaaaa
+XDDDDDDDDDD
+ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+=======
 nombre = "jose" y "roberto" y "luis" y "mario"
 bbbbbbbb
+
