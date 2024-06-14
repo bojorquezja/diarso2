@@ -1,3 +1,4 @@
 nombre = "Lorena"
 apellido "oie ziii"
-aaaaaaaaaaaaaa
+nombre = "jose" y "roberto"
+bbbbbbbb
