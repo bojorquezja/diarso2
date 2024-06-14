@@ -1,2 +1,2 @@
-nombre = "jose" y "roberto"
+nombre = "jose" y "roberto" y "luis" y "mario"
 bbbbbbbb
