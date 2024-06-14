@@ -1,2 +1,4 @@
-nombre = "carlor"
+nombre = "Jhon"
 aaaaaaaaaaaaaa
+
+Chino
