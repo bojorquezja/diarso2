@@ -5,3 +5,7 @@ XDDDDDDDDDD
 ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+=======
+nombre = "jose" y "roberto" y "luis" y "mario"
+bbbbbbbb
+
