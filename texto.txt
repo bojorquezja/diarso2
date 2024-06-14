@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 string="Feliz día del padre!"
+=======
+string="Triste día"
+>>>>>>> hotfix
