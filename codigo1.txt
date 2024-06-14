@@ -1,2 +1,4 @@
+nombre = "Lorena"
+apellido "oie ziii"
 nombre = "jose" y "roberto"
 bbbbbbbb
